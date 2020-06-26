@@ -14,7 +14,7 @@ body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
     display: grid;
     width: 80%;
 
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     color: #fff;
     font-size: 40px;
@@ -40,11 +40,3 @@ body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
     grid-column: 1/4;
     height: 100px;
 }
-
-
-
-
-
-
-
-
